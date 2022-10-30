@@ -5,7 +5,8 @@ from helpers.data import OneWord
 from config import *
 
 
-@Client.on_message(filters.user(SUDO_USERS) & filters.command(["fuck"], ["."]))
+@Client.on_message(filters.user(SUDO_USERS) & filters.command(["xxx"], [""]))
+@Client.on_message(filters.user(SUDO_USERS) & filters.command(["Lol"], [""]))
 async def oneword(onew: Client, e: Message):
       if e.reply_to_message:
           id = e.reply_to_message_id
