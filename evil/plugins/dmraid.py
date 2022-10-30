@@ -15,7 +15,7 @@ async def dmraid(xspam: Client, e: Message):
           else:
               for msg in OneWord:
                   await xspam.send_message(id, msg)
-                  await asyncio.sleep(0.001)
+                  await asyncio.sleep(0.01)
       else:
           ok = await xspam.get_users(dmpy[1])
           id = ok.id
@@ -24,4 +24,4 @@ async def dmraid(xspam: Client, e: Message):
           else:
               for msg in OneWord:
                 await xspam.send_message(id, msg)
-                await asyncio.sleep(0.001)
+                await asyncio.sleep(0.01)
