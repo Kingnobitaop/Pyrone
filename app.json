@@ -1,7 +1,5 @@
 {
-    "name": "ᴀʟᴛʀᴏɴ x ᴜsᴇʀʙᴏᴛ",
-    "logo": "https://te.legra.ph/file/7abe179ff252aaabbf2a5.jpg",
-    "description": "ᴀɴ ᴀᴅᴠᴀɴᴄᴇᴅ ᴘʀᴇᴍɪᴜᴍ ᴍᴜsɪᴄ + sᴘᴀᴍ ᴜsᴇʀʙᴏᴛ ",
+    "name": "x",
     "keywords": ["telegram"],
     "stack": "container",
     "env": {
