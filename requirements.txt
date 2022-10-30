@@ -1,0 +1,7 @@
+aiohttp
+asyncio
+pyrogram==1.4.16
+python-arq
+py-tgcalls==0.8.6
+gitpython
+TgCrypto
